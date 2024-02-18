@@ -1,0 +1,52 @@
+@charset "ISO-8859-1";
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin: 50px auto; /* Center the container horizontally */
+    padding: 20px;
+    width: 80%;
+    max-width: 800px;
+}
+
+h2 {
+    color: #333333;
+    text-align: center; /* Center the heading */
+}
+
+table {
+    width: 100%; /* Make the table fill the width of its container */
+    border-collapse: collapse; /* Collapse table borders */
+    margin-top: 20px; /* Add margin to the top of the table */
+}
+
+th, td {
+    border: 1px solid #dddddd; /* Add border to table cells */
+    padding: 8px; /* Add padding to table cells */
+    text-align: left; /* Align text to the left within table cells */
+}
+
+th {
+    background-color: #f2f2f2; /* Background color for table header */
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
