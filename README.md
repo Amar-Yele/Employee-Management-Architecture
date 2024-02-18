@@ -19,9 +19,9 @@ In this system "Ram" is the Super Admin who can perform all the operations of th
 	2. Akshay
 	3. Shiv
 
-Amar 	:: Amar can perform only Adding the Employees data to the Application.
-Akshay:: Akshay can only perform Reading the Data from the Employee List.
-Shiv 	:: Shiv can perform only Deleting the Data from the Employees table.
+#### Amar 	:: Amar can perform only Adding the Employees data to the Application.
+#### Akshay:: Akshay can only perform Reading the Data from the Employee List.
+#### Shiv 	:: Shiv can perform only Deleting the Data from the Employees table.
 
 #### And Remaining all the plays the role of Users only not members They can only explore the application.
 
